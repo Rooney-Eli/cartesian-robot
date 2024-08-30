@@ -9,6 +9,9 @@ of making a relatively large structure, however it resulted in many custom parts
 I ultimately used 608-ZZ Ball bearings bracketed around the PVC pipe
 using 3d printed parts and M8 45mm length bolts. The axis are pulled around using GT2 timing belt attached to the stepper motors.
 
+[Watch it in motion!](https://drive.google.com/file/d/1IxTt4LRl6Ys6Cx0UN4byJh0-MHijARi6/view)
+
+
 ![robot](images/robot.png)
 
 <br>\
